@@ -1,6 +1,6 @@
 # Ebook
 Ebook criado por fins de estudo utilizando IA\
-[Clique aqui para ler]()
+[Clique aqui para ler](https://github.com/GabrielM-Paula/Ebook/blob/main/ebook/OraculosJavascript.pptx)
 
 
 ## Tecnologias Utilizadas
@@ -15,14 +15,14 @@ Imagens geradas via Canva
 
 
 ## Prompts
-ChatGPT:\
+ChatGPT:
 | Ação | Prompt |
 |---|---|
 | Título | Crie um título de um ebook sobre o tema de estruturas de condição(Javascript), o ebook é do nicho de programação e o subnicho é de javascript, o título deve ser épico e curto, e tenha uma temática grega no título, me liste 5 variações de títulos |
 | Conteúdo | Faça um texto para ebook , com foco em Javascript, listando as principais estruturas de condição com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
 
 
-Canva:\
+Canva:
 | Ação | Prompt |
 |---|---|
 | Geração de Imagens | Coroa de louro |
@@ -33,4 +33,5 @@ Canva:\
 
 
 ## Materiais
-
+Ebook se encontra na pasta "ebook"\
+Imagens geradas se encontram na pasta "assets"
